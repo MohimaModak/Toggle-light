@@ -1,0 +1,16 @@
+
+
+.sunpakhi{
+  box-shadow: 0 0 50px rgb(255, 255, 142), 0 0 80px rgb(245, 161, 155), 0 0 80px rgb(214, 5, 5);
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.moon{
+  background-color: transparent;
+  box-shadow: -10px 10px 0 5px white ;
+  border-radius: 50%;
+}
